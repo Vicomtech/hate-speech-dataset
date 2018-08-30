@@ -1,0 +1,1 @@
+It looks like I have to create MY own copy of PDF file , since the OP version is a read-only item. ( sigh )
