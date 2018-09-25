@@ -1,6 +1,9 @@
 # Hate speech dataset from a white supremacist forum
 
  
+`
+Disclaimer: The number of files available in this repository may be slightly different to the numbers reported in the paper due to some last minute changes and additions. But the overall content distribution and conclusions should remain unchanged. 
+`
 
 These files contain text extracted from Stormfront, a white supremacist forum.
 A random set of forums posts have been sampled from several subforums and split into sentences.
